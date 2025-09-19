@@ -1,0 +1,5 @@
+{
+  "name": "Copy of RhythmFit - Adaptive Workout Music",
+  "description": "A health and music hybrid app that helps users track workouts and listen to adaptive music that responds to their heart rate, pace, or workout phase. It features a clean, mobile-first UI with offline capabilities.",
+  "requestFramePermissions": []
+}
