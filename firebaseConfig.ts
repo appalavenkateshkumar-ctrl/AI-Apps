@@ -13,7 +13,7 @@ import "firebase/compat/auth";
 // 4. Copy the configuration object and paste it here, replacing the placeholder.
 // =================================================================================
 const firebaseConfig = {
-  apiKey: "AIzaSyBagGg9kXkVfCkddBQvNvchAfVzWLiqN-E",
+  apiKey: "",
   authDomain: "rhythmfit-f3cee.firebaseapp.com",
   projectId: "rhythmfit-f3cee",
   storageBucket: "rhythmfit-f3cee.firebasestorage.app",
